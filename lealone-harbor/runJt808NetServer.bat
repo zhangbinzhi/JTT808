@@ -1,0 +1,1 @@
+java -cp ./target/lealone-harbor-1.0-SNAPSHOT-fat.jar com.lealone.harbor.StartKt
